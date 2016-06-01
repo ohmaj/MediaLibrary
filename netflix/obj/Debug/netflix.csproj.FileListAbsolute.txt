@@ -1,0 +1,1 @@
+D:\Projects\VisualStudio\netflix\netflix\bin\Debug\netflix.exe.config
